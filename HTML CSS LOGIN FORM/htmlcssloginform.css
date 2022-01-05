@@ -1,0 +1,139 @@
+        body {
+            margin: 0;
+            background-color: rgba(238, 190, 232, 0.37);
+        }
+        
+        .loginformblock {
+            width: 70%;
+            height: 450px;
+            margin: auto;
+            margin-top: 100px;
+            margin-bottom: 100px;
+            padding-top: 40px;
+        }
+        
+        .loginformblock .loginformainbox {
+            width: 60%;
+            height: 355px;
+            margin: auto;
+            margin-bottom: 30px;
+            border-radius: 10px;
+            box-shadow: -0.5px 10px 19px grey;
+        }
+        
+        .loginformblock .loginformainbox .loginformbox {
+            width: 50%;
+            float: left;
+        }
+        
+        .loginformblock .loginformainbox .loginformbox .loginformsubbox {
+            width: 100%;
+            height: 355px;
+            box-sizing: border-box;
+            text-align: center;
+        }
+        
+        .loginformblock .loginformainbox .loginformbox .loginformsubbox h1 {
+            text-align: center;
+            margin: 0px;
+            padding-top: 30px;
+            font-family: system-ui;
+            font-size: 25px;
+        }
+        
+        .loginformblock .loginformainbox .loginformbox .loginformsubbox .logoblock {
+            width: 100px;
+            height: 40px;
+            margin: auto;
+            margin-top: 30px;
+        }
+        
+        .loginformblock .loginformainbox .loginformbox .loginformsubbox .logoblock .logobox {
+            width: 27px;
+            height: 27px;
+            border-radius: 50%;
+            background-color: white;
+            border: 1px solid rgba(128, 128, 128, 0.322);
+            float: left;
+            margin: 7px;
+        }
+        
+        .loginformblock .loginformainbox .loginformbox .loginformsubbox .logoblock .logobox .logo {
+            font-size: 18px;
+            padding-top: 5px;
+        }
+        
+        .loginformblock .loginformainbox .loginformbox .loginformsubbox .formblock {
+            width: 90%;
+            height: 100px;
+            margin: auto;
+        }
+        
+        .loginformblock .loginformainbox .loginformbox .loginformsubbox .formblock p {
+            font-size: 10px;
+            color: black;
+            margin-top: 30px;
+            margin-bottom: 0px;
+        }
+        
+        .loginformblock .loginformainbox .loginformbox .loginformsubbox .formblock .clientdetail {
+            height: 27px;
+            width: 200px;
+            margin: 5px;
+            font-size: 10px;
+            padding-left: 10px;
+            background-color: rgba(216, 191, 216, 0.349);
+            border: none;
+        }
+        
+        .loginformblock .loginformainbox .loginformbox .loginformsubbox p {
+            font-size: 11px;
+            color: gray;
+            margin-top: 5px;
+            font-family: system-ui;
+        }
+        
+        .loginformblock .loginformainbox .loginformbox .loginformsubbox button {
+            width: 105px;
+            height: 30px;
+            background-color: rgb(241, 51, 18);
+            font-size: 10px;
+            color: white;
+            font-weight: lighter;
+            font-family: system-ui;
+            border-radius: 20px;
+            border: none;
+            margin-bottom: 15px;
+        }
+        
+        .bg_hotpink {
+            background: linear-gradient(to right, rgb(241, 3, 42), rgb(253, 75, 120));
+            border-radius: 0px 10px 10px 0px;
+        }
+        
+        .bg_white {
+            background-color: white;
+            border-radius: 10px 0px 0px 10px;
+        }
+        
+        .loginformblock .loginformainbox .loginformbox .loginformsubbox h2 {
+            padding-top: 100px;
+            font-size: 25px;
+            color: whitesmoke;
+            font-family: system-ui;
+            margin: 0px;
+            margin: auto;
+            margin-left: 16px;
+            margin-right: 16px;
+        }
+        
+        .loginformblock .loginformainbox .loginformbox .loginformsubbox h3 {
+            font-size: 13px;
+            color: whitesmoke;
+            font-family: system-ui;
+            font-weight: lighter;
+            padding: 0px 10px 0px 10px;
+            margin-left: 28px;
+            margin-right: 28px;
+            line-height: 1.3;
+        }
